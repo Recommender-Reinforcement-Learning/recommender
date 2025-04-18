@@ -19,7 +19,7 @@
 
 # Load modules
 module purge
-module load gcc
+module load gcc/14.2.0
 module load miniforge
 source activate rl
 
